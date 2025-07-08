@@ -1,6 +1,6 @@
 # DiagnosticExam 🧩
 
-Este repositorio contiene ejercicios de **lógica de programación** resueltos con **TypeScript**, como parte de mi plan de estudio para fortalecer lógica, algoritmos y estructuras de datos antes de pasar a frameworks de desarrollo Frontend.
+Este repositorio contiene ejercicios de **lógica de programación** resueltos con **TypeScript**, como parte de un plan de estudio para fortalecer lógica, algoritmos y estructuras de datos antes de pasar a frameworks de desarrollo Frontend.
 
 ---
 
