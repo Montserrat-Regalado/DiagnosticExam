@@ -2,7 +2,7 @@ interface Usuario{
     nombre:string;
     edad:number;
 }
-function filtroAdultos(usuarios:Usuario[]){
+function filtroAdultos(usuarios:Usuario[]):Usuario[]{
     const mayorEdad=usuarios.filter((u)=>u.edad>18)
     return mayorEdad
 }

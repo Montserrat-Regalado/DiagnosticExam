@@ -1,0 +1,26 @@
+# Node modules (si usas librerías)
+node_modules/
+
+# Archivos de salida de TypeScript
+dist/
+build/
+*.tsbuildinfo
+lib/
+
+
+# Archivos JS generados por tsc (si los dejas en el mismo folder)
+*.js
+*.js.map
+package-lock*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code settings locales
+.vscode/
+
+# Archivos del sistema (Mac o Windows)
+.DS_Store
+Thumbs.db
